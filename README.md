@@ -1,6 +1,6 @@
 # Parallel and Distributed Computing
 
-This repository contains all the data mining assignments for the CSE3024 lab as of Fall'18.
+This repository contains all the parallel and distributed assignments for the CSE4001 lab as of Fall'18.
 
 ## [Assignment 1](https://github.com/jacobjohn2016/Parallel-and-Distributed-Computing/tree/master/Assignment_1)
 Explicitly Specify the Number of Threads in OpenMP
