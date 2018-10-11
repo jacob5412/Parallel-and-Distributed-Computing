@@ -38,6 +38,14 @@ This repository contains all the parallel and distributed assignments for the CS
 * Sending In A Ring (Broadcast By Ring).
 * [Answer](https://github.com/jacobjohn2016/Parallel-and-Distributed-Computing/blob/master/Assignment_9/assignment_9.pdf)
 
+## [Assignment 10](https://github.com/jacobjohn2016/Parallel-and-Distributed-Computing/tree/master/Assignment_10)
+* Collective communication
+* [Answer](https://github.com/jacobjohn2016/Parallel-and-Distributed-Computing/blob/master/Assignment_10/assignment_10.pdf)
+
+## [Assessment 1](https://github.com/jacobjohn2016/Parallel-and-Distributed-Computing/tree/master/Assessment_1)
+
+## [Assessment 2](https://github.com/jacobjohn2016/Parallel-and-Distributed-Computing/tree/master/Assessment_2)
+
 ## Authors
 
 * **Jacob John** - *Initial work* - [jacobjohn2016](github.com/jacobjohn2016/)
