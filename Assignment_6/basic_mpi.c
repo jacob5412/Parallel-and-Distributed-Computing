@@ -8,8 +8,9 @@ int main(int argc, char *argv[])
     int source; /* rank of sender */
     int dest; /* rank of receiver */
     int tag = 0; /*tags for messages*/
-    char message[100];                                 /* storage for message */
-    MPI_Status status; /* return status for receive */ /* start up MPI */
+    char message[100]; /* storage for message */
+    MPI_Status status; /* return status for receive */ 
+    /* start up MPI */
     MPI_Init(&argc, &argv);
     /* find out process rank */ MPI_Comm_rank(MPI_COMM_WORLD, &my_rank); /* find out number of processes */
     MPI_Comm_size(MPI_COMM_WORLD, &p);

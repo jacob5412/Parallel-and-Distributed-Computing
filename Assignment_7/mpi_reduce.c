@@ -86,8 +86,7 @@ int main(int argc, char *argv[])
       Each process sends its local result Q_PART to the MASTER process, 
       to be added to the global result QI.
     */
-    ierr = MPI_Reduce(&q_part, &q, 1, MPI_DOUBLE, MPI_SUM, 0,
-                      MPI_COMM_WORLD);
+    ierr = MPI_Reduce(&q_part, &q, 1, MPI_DOUBLE, MPI_SUM, 0, MPI_COMM_WORLD);
     /*
       Every process scales the sum and reports the results.
     */
