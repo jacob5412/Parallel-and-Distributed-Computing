@@ -46,6 +46,8 @@ This repository contains all the parallel and distributed assignments for the CS
 
 ## [Assessment 2](https://github.com/jacobjohn2016/Parallel-and-Distributed-Computing/tree/master/Assessment_2)
 
+## [Mock FAT](https://github.com/jacobjohn2016/Parallel-and-Distributed-Computing/blob/master/Mock_FAT/mock_fat.c)
+
 ## Authors
 
 * **Jacob John** - *Initial work* - [jacobjohn2016](github.com/jacobjohn2016/)
