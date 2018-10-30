@@ -48,6 +48,8 @@ This repository contains all the parallel and distributed assignments for the CS
 
 ## [Mock FAT](https://github.com/jacobjohn2016/Parallel-and-Distributed-Computing/blob/master/Mock_FAT/mock_fat.c)
 
+## [Final Exam](https://github.com/jacobjohn2016/Parallel-and-Distributed-Computing/blob/master/Final_Exam/final_barrier_omp.c)
+
 ## Authors
 
 * **Jacob John** - *Initial work* - [jacobjohn2016](github.com/jacobjohn2016/)
