@@ -52,4 +52,4 @@ This repository contains all the parallel and distributed assignments for the CS
 
 ## Authors
 
-* **Jacob John** - *Initial work* - [jacobjohn2016](github.com/jacobjohn2016/)
+* **Jacob** - *Initial work* - [jacob5412](github.com/jacob5412/)
